@@ -1,2 +1,2 @@
-Nothing much too see here.
+Nothing much to see here.
 Just a simple Amazon clone, for practice.
